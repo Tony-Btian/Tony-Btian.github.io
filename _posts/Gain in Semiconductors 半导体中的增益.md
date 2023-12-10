@@ -1,3 +1,14 @@
+---
+layout: post
+title: Gain in Semiconductors 半导体中的增益
+subtitle: 半导体器件
+date: 
+author: Tony
+header-img: img/post-bg-cook.jpg
+catalog: 
+tags:
+  - Laser
+---
 
 ## Population Inversion 群数反转
 
