@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "7a677510383b9502",
+    "type": "split",
+    "children": [
+      {
+        "id": "1af91c2d8a1a6524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "269b09d0e03c7b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2016-09-22-the-home-nas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "105df6d7a73d1aa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "852aec9851ff35c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11ab541dbd37040a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d7787e8e0bff7d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48519d054c8e041d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5486c21fb1f3c0eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e106cc18337152a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a31b023fc8612570",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2016-09-22-the-home-nas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d00e9a8fff91d1d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2016-09-22-the-home-nas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "106bb1503e6385d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d733a513a8dc1aa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2016-09-22-the-home-nas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "11ab541dbd37040a",
+  "lastOpenFiles": [
+    "2016-09-22-the-open-web.md",
+    "2016-09-22-the-home-nas.md"
+  ]
+}
