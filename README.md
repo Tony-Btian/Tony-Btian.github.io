@@ -1,7 +1,6 @@
 [Antonio Blog](https://tony-btian.github.io/)
 ================================
 
-> I never expect this becomes popular.
 
 ![](http://tony-btian.github.io/img/blog-desktop.jpg)
 
