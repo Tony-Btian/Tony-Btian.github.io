@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2016-09-22-sharx.md",
+                "file": "2022-10-23-sharx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2016-09-22-sharx.md",
+                "file": "2022-10-23-sharx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2016-09-22-sharx.md",
+                "file": "2022-10-23-sharx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2016-09-22-sharx.md"
+                "file": "2022-10-23-sharx.md"
               }
             }
           }
@@ -149,7 +149,11 @@
   "active": "269b09d0e03c7b36",
   "lastOpenFiles": [
     "2016-09-22-the-home-nas.md",
-    "2016-09-22-sharx.md",
+    "2022-10-23-sharx.md",
+    "Windows-Screenshot.png",
+    "ApplicationFrameHost_zNAmSolJ0S.png",
+    "SharX-Screenshot.png",
+    "屏幕截图 2024-01-16 165533.png",
     "2016-09-22-the-open-web.md"
   ]
 }
