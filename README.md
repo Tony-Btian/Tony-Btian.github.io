@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[Antonio Blog](https://tony-btian.github.io/)
 ================================
 
 > I never expect this becomes popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://huangxuan.me/img/blog-desktop.png)
 
 
 [User Manual 👉](_doc/Manual.md)
