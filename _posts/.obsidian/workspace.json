@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f7c1c63f03661f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-17-raspberrypi-setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "5486c21fb1f3c0eb",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-23-sharx.md",
+                "file": "2024-01-17-raspberrypi-setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-23-sharx.md",
+                "file": "2024-01-17-raspberrypi-setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-23-sharx.md"
+                "file": "2024-01-17-raspberrypi-setup.md"
               }
             }
           }
@@ -146,10 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "269b09d0e03c7b36",
+  "active": "5f7c1c63f03661f8",
   "lastOpenFiles": [
-    "2016-09-22-home-nas.md",
+    "2024-01-16-uva-system-intro.md",
+    "2024-01-17-raspberrypi-setup.md",
+    "2024-01-15-raspberry-cross-compiling.md",
     "2022-10-23-sharx.md",
+    "未命名.md",
+    "2016-09-22-home-nas.md",
     "Windows-Screenshot.png",
     "ApplicationFrameHost_zNAmSolJ0S.png",
     "SharX-Screenshot.png",
