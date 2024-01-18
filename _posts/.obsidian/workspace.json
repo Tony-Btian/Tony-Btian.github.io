@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "5486c21fb1f3c0eb",
@@ -149,10 +148,11 @@
   },
   "active": "5f7c1c63f03661f8",
   "lastOpenFiles": [
+    "post-bg-raspberry-pi-imager.png",
     "截屏2024-01-18 21.47.54.png",
     "rpi-imager_9Z4a6XAzLA.png",
-    "2024-01-16-uva-system-intro.md",
     "2024-01-17-raspberrypi-setup.md",
+    "2024-01-16-uva-system-intro.md",
     "2024-01-15-raspberry-cross-compiling.md",
     "2016-09-22-home-nas.md",
     "2022-10-23-sharx.md",
