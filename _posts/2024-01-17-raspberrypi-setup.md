@@ -34,4 +34,12 @@ Raspberry Pi 因其可扩展性、功能性和成本效益而成为一个非常�
 - 树莓派系统写入工具：[Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 
 将 SD 卡用读卡器连接电脑，打开树莓派写入工具，选择合适的 Raspberry Pi 型号和系统，以及 SD 存储卡。系统选择最好选择发布时间最近的 Raspberry Pi OS，一般会有推荐系统。Debian 的硬件支持更好，所以这里以 Debian 系统为例。
-![[rpi-imager_9Z4a6XAzLA.png]]
+![[截屏2024-01-18 21.47.54.png]]
+烧录完成后，直接将 SD 卡插入 Raspberry Pi 即可。通电后，系统会自动初始化，加载。通过简单的系统引导配置，就可以进入系统了。如果有外界显示设备，可以通过 HDMI 连接外部显示设备。
+
+> [!warning]
+> 每次系统烧录都会格式化 SD 卡，因此在烧录之前需要备份好 SD 卡中的数据
+
+系统操作界面如下所示：
+
+## 远程连接 Raspberry Pi
