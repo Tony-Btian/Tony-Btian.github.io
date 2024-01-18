@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 嵌入式项目 - 无人机系统（一）
-subtitle: 无人机系统介绍，其中包括无人机运动方式，传感器，简单运动方式
+subtitle: 无人机系统的介绍
 author: 翰宝
 header-img: img/post-bg-web.jpg
 header-mask: 0.4
 tags:
   - 嵌入式系统
-  - RaspberryPi
   - 无人机
+  - RaspberryPi
+  - 树莓派
 ---
 
 > 什么是交叉编译？

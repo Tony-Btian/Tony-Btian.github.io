@@ -10,6 +10,7 @@ tags:
   - Linux
   - QT
   - RaspberryPi
+  - 树莓派
 ---
 
 > 什么是交叉编译？

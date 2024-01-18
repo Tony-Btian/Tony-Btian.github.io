@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 玩转 Raspberry Pi (树莓派)
-subtitle: Raspberry Pi (树莓派) 基础知识和应用
+subtitle: Raspberry Pi (树莓派) 基本使用手册
 author: 翰宝
 header-img: img/post-bg-web.jpg
 header-mask: 0.4
@@ -9,6 +9,7 @@ tags:
   - 嵌入式系统
   - RaspberryPi
   - 资料
+  - 树莓派
 ---
 
 > 什么是交叉编译？
