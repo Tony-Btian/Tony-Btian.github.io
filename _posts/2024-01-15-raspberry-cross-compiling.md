@@ -3,7 +3,7 @@ layout: post
 title: QT 与 Raspberry Pi 的交叉编译
 subtitle: QT 基于 ARM 架构的交叉编译器
 author: 翰宝
-header-img: img/post-bg-web.jpg
+header-img: img/post-bg-css.jpg
 header-mask: 0.4
 tags:
   - 嵌入式系统

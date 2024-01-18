@@ -3,7 +3,7 @@ layout: post
 title: 嵌入式项目 - 无人机系统（一）
 subtitle: 无人机系统的介绍
 author: 翰宝
-header-img: img/post-bg-web.jpg
+header-img: img/post-bg-uva-system-intro.jpg
 header-mask: 0.4
 tags:
   - 嵌入式系统

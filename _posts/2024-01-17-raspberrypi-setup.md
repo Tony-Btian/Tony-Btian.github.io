@@ -3,7 +3,7 @@ layout: post
 title: 玩转 Raspberry Pi (树莓派)
 subtitle: Raspberry Pi (树莓派) 基本使用手册
 author: 翰宝
-header-img: img/post-bg-web.jpg
+header-img: img/post-bg-raspberrypi-setup.jpg
 header-mask: 0.4
 tags:
   - 嵌入式系统
