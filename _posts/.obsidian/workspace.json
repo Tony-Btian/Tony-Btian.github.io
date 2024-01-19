@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-15-raspberry-cross-compiling.md",
+                "file": "2024-01-17-raspberrypi-setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-15-raspberry-cross-compiling.md",
+                "file": "2024-01-17-raspberrypi-setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-15-raspberry-cross-compiling.md",
+                "file": "2024-01-17-raspberrypi-setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-15-raspberry-cross-compiling.md"
+                "file": "2024-01-17-raspberrypi-setup.md"
               }
             }
           }
@@ -149,18 +149,21 @@
   "active": "5f7c1c63f03661f8",
   "lastOpenFiles": [
     "2024-01-16-uva-system-intro.md",
+    "Pasted image 20240119123651.png",
+    "Pasted image 20240119122422.png",
+    "Pasted image 20240119120055.png",
+    "Pasted image 20240119115826.png",
+    "Pasted image 20240119115513.png",
+    "Pasted image 20240119115425.png",
+    "Pasted image 20240119114248.png",
+    "Pasted image 20240119113632.png",
+    "2024-01-15-raspberry-cross-compiling.md",
     "2024-01-17-raspberrypi-setup.md",
     "post-bg-raspberry-pi-imager.png",
     "截屏2024-01-18 21.47.54.png",
-    "rpi-imager_9Z4a6XAzLA.png",
-    "2024-01-15-raspberry-cross-compiling.md",
     "2016-09-22-home-nas.md",
     "2022-10-23-sharx.md",
     "未命名.md",
-    "Windows-Screenshot.png",
-    "ApplicationFrameHost_zNAmSolJ0S.png",
-    "SharX-Screenshot.png",
-    "屏幕截图 2024-01-16 165533.png",
     "2016-09-22-the-open-web.md"
   ]
 }
