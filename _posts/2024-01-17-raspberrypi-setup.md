@@ -37,11 +37,32 @@ Raspberry Pi 因其可扩展性、功能性和成本效益而成为一个非常�
 
 将 SD 卡用读卡器连接电脑，打开树莓派写入工具，选择合适的 Raspberry Pi 型号和系统，以及 SD 存储卡。系统选择最好选择发布时间最近的 Raspberry Pi OS，一般会有推荐系统。Debian 的硬件支持更好，所以这里以 Debian 系统为例。
 
-![[/img/in-post-imag/post-inner-raspberry-pi-imager.png]]
+![[/img/in-post-imag/post-inner-raspberry-pi-imager-01.png]]
 
-烧录完成后，直接将 SD 卡插入 Raspberry Pi 即可。通电后，系统会自动初始化，加载。通过简单的系统引导配置，就可以进入系统了。如果有外界显示设备，可以通过 HDMI 连接外部显示设备。
+在执行烧录之前，可以选择提前对 Raspberry Pi OS 系统进行配置，也可以烧录完成后，进入系统再设置。
 
-> 每次系统烧录都会格式化 SD 卡，因此在烧录之前需要备份好 SD 卡中的数据
+![[/img/in-post-imag/post-inner-raspberry-pi-imager-02.png]]
+
+这里以提前进行系统设置为例，点击「编辑设置」
+
+![[/img/in-post-imag/post-inner-raspberry-pi-imager-03.png]]
+
+- 设置主机名称：主机名称
+- 设置用户名和密码
+- 配置 Wi-Fi：这里不会显示 Wi-Fi 列表，需要直接填写 Wi-Fi 的 SSDN（即显示在Wi-Fi列表中的名字）
+- 语言和时区设置
+
+完成上述设置之后，点击 「SERVICES」，勾选「开启SSH服务」，并选择使用密码登陆。这里的密码就是前面设置的用户名和密码。
+
+![[/img/in-post-imag/post-inner-raspberry-pi-imager-04.png]]
+
+点击「保存」，开始写入系统。
+
+![[/img/in-post-imag/post-inner-raspberry-pi-imager-05.png]]
+
+烧录完成后，直接将 SD 卡插入 Raspberry Pi 即可。通电后，系统会自动初始化，加载。如果做了提前设置就会直接进入系统，如果没做提前设置，通过简单的系统引导配置，就可以进入系统了。有外界显示设备可以通过 HDMI 连接 Raspberry Pi 与外部显示设备。
+
+> **注意：** 每次系统烧录都会格式化 SD 卡，因此在烧录之前需要备份好 SD 卡中的数据
 
 系统操作界面如下所示：
 
