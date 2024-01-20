@@ -117,6 +117,13 @@ ssh username@ip_address
 ![SSH 连接](/img/in-post-imag/post-inner-raspberry-pi-ssh-01.png)
 连接时，提示是否建立连接，输入 `yes` 然后回车，再输入密码就能够建立 SSH 连接了。密码和 Raspberry Pi 的登陆密码一致。
 ![SSH 连接](/img/in-post-imag/post-inner-raspberry-pi-ssh-02.png)
+如果连接过程中出现以下画面：
+![[Pasted image 20240120142857.png]]
+则需要输入
+```Shell
+ssh-keygen -R <Host_IP>
+```
+
 ## VNC 连接
 VNC 连接提供一种可视化的远程桌面连接服务，让开发者能够直接以图形界面操作树莓派。用 VNC 连接树莓派需要下载 VNC软件：
 [RealVNC](https://www.realvnc.com/en/connect/download/combined/)
