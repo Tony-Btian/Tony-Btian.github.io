@@ -91,6 +91,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "黄小喵"     , href: "http://google.com/" },
-    { title: "Tony"      , href: "https://google.com/" },
+    { title: "黄小喵"      , href: "http://google.com/" },
+    { title: "Pygmalion0" , href: "https://github.com/Pygmalion0" },
+    { title: "Tony"       , href: "https://google.com/" },
   ]
