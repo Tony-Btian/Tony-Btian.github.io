@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f7c1c63f03661f8",
+            "id": "2565ebd4e9edec72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-20-raspberry-using-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-20-raspberry-using-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-20-raspberry-using-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-20-raspberry-using-git.md"
+              }
             }
           }
         ]
@@ -138,8 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5f7c1c63f03661f8",
+  "active": "2565ebd4e9edec72",
   "lastOpenFiles": [
+    "2024-01-15-raspberrypi-setup.md",
+    "2024-01-17-raspberry-cross-compiling.md",
+    "2024-01-20-raspberry-using-git.md",
+    "未命名.md",
     "2024-01-17-raspberrypi-setup.md",
     "2016-09-22-home-nas_副本.md",
     "2022-10-23-sharx_副本.md",
@@ -158,7 +170,6 @@
     "截屏2024-01-18 21.47.54.png",
     "2016-09-22-home-nas.md",
     "2022-10-23-sharx.md",
-    "未命名.md",
     "2016-09-22-the-open-web.md"
   ]
 }

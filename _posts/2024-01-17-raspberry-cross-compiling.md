@@ -30,13 +30,13 @@ Qt 提供了所有必要的工具来设计、开发、构建和将应用部署�
 
 ### 安装依赖
 更新系统，并将软件库升级到最新版本。
-```Shell
+```bash
 sudo apt-get update
 sudo apt full-upgrade
 sudo reboot
 ```
 接下来，安装包依赖。QT 需要这些库在 Raspberry Pi 中部署各种应用程序。
-```Shell
+```bash
 sudo apt-get install libboost-all-dev libudev-dev libinput-dev libts-dev 
 sudo apt-get install libmtdev-dev libjpeg-dev libfontconfig1-dev libssl-dev 
 sudo apt-get install libdbus-1-dev libglib2.0-dev libxkbcommon-dev libegl1-mesa-dev 
@@ -62,7 +62,7 @@ sudo apt-get install libpci-dev libcap-dev libxrandr-dev
 sudo apt-get install libdirectfb-dev libaudio-dev libxkbcommon-x11-dev
 ```
 还需要在 Raspberry Pi 中创建一个文件夹，用于存放针对 QT 的安装文件。
-```Shell
+```bash
 sudo mkdir /usr/local/qt6
 ```
 # 设置主机
@@ -70,13 +70,13 @@ sudo mkdir /usr/local/qt6
 现在我们进行主机部分的设置，主机中使用的是 x86_64 架构的 Ubuntu 20.04 系统。理论上，该教程适用于任何 x86_64 架构的系统发行版。
 ### 更新系统
 同样的，我们先更新 Ubuntu 系统中的软件包。
-```Shell
+```bash
 sudo apt update
 sudo apt upgrade
 ```
 ### 安装 QT 依赖
 接下来安装程序包依赖项。其中一些软件包是编译 Qt 6 所需的构建工具。
-```Shell
+```bash
 sudo apt-get install make build-essential libclang-dev ninja-build 
 sudo apt-get install gcc git bison python3 gperf pkg-config libfontconfig1-dev 
 sudo apt-get install libfreetype6-dev libx11-dev libx11-xcb-dev libxext-dev 
@@ -90,7 +90,7 @@ sudo apt-get install libatspi2.0-dev libgl1-mesa-dev libglu1-mesa-dev freeglut3-
 ```
 ### 安装交叉编译器
 接下来，我们需要获取交叉编译器。在本指南中，我们将从 Ubuntu/Debian 软件包存储库安装它，这是获取 ARM64 交叉编译器的最简单方法。
-```Shell
+```bash
 sudo apt install gcc-aarch64-linux-gnu g++-aarch64-linux-gnu
 ```
 
