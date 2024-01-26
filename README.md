@@ -3,9 +3,9 @@
 
 
 ![](http://tony-btian.github.io/img/blog-desktop.jpg)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE)
 
-
-[User Manual 👉](_doc/Manual.md)
+# User Manual
 --------------------------------------------------
 
 ### Getting Started
@@ -35,28 +35,16 @@ Critical Jekyll-related code are located in `_include/` and `_layouts/`. Most of
 This theme uses the default code syntax highlighter of jekyll, [Rouge](http://rouge.jneen.net/), which is compatible with Pygments theme so just pick any pygments theme css (e.g. from [here](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) and replace the content of `highlight.less`.
 
 
-### Interesting to know more? Checkout the [full user manual](_doc/Manual.md)!
-
-
 Other Resources
 ---------------
 
 Ports
 - [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
 - [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
-
-[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
-- Out of date. Helps wanted for updating it on par with the main repo
-
-Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
-
+- [**Huxpro**](https://github.com/Huxpro) Template
 
 License
 -------
 
-Apache License 2.0.
-Copyright (c) 2015-present Huxpro
-
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
+MIT License
+Copyright (c) 2024 Binhan Tian
