@@ -5,7 +5,7 @@
 ![](http://tony-btian.github.io/img/blog-desktop.jpg)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE)
 
-# User Manual
+## User Manual
 ---
 ### Getting Started
 
