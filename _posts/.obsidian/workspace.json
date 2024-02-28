@@ -11,8 +11,12 @@
             "id": "2565ebd4e9edec72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-17-raspberry-cross-compiling.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-17-raspberry-cross-compiling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-17-raspberry-cross-compiling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-17-raspberry-cross-compiling.md"
+              }
             }
           }
         ]
@@ -140,8 +148,8 @@
   },
   "active": "2565ebd4e9edec72",
   "lastOpenFiles": [
-    "2024-01-20-raspberry-using-git.md",
     "2024-01-15-raspberrypi-setup.md",
+    "2024-01-20-raspberry-using-git.md",
     "2024-01-17-raspberry-cross-compiling.md",
     "未命名.md",
     "2024-01-17-raspberrypi-setup.md",
